@@ -158,14 +158,14 @@
       "type": "",
       "sourceName": "夏天是条狗",
       "baseUrl": "https://www.aimd.pw",
-      "apiUrl": "https://www.aimd.pw/api.php/provide/vod/at/xml/",
+      "apiUrl": "http://www.aimd.pw/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
     {
       "type": "",
       "sourceName": "夏天狗都不如",
       "baseUrl": "https://dadiapi.com",
-      "apiUrl": "https://dadiapi.com/api.php",
+      "apiUrl": "http://dadiapi.com/api.php",
       "parserUrl": ""
     }
   ],
