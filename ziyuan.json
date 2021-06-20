@@ -156,9 +156,23 @@
     },
      {
       "type": "",
+      "sourceName": "狗比夏天强",
+      "baseUrl": "https://www.77zy.vip",
+      "apiUrl": "https://www.77zy.vip/inc/m3u8.php",
+      "parserUrl": ""
+    },
+     {
+      "type": "",
       "sourceName": "夏天是条狗",
       "baseUrl": "https://www.aimd.pw",
       "apiUrl": "https://www.aimd.pw/api.php/provide/vod/at/xml/",
+      "parserUrl": ""
+    },
+     {
+      "type": "",
+      "sourceName": "夏天狗汪汪汪",
+      "baseUrl": "https://apihjzy.com",
+      "apiUrl": "https://apihjzy.com/api.php/provide/vod/at/xml/",
       "parserUrl": ""
     },
     {
